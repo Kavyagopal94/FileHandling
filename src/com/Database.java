@@ -4,7 +4,7 @@ public class Database
 {
 	public static Database obj;
 	
-	private Database()
+	private Database() 
 	{
 		
 	}
